@@ -64,7 +64,7 @@ El proyecto integra datos de ventas, costos, marketing, comportamiento de usuari
 - **Herramientas**: Python | Pandas | NumPy | Matplotlib | Seaborn | SciPy | Jupyter Notebook
 - **Métodos** Pearson | Spearman | Point-biserial | V de Cramér
   
-- [View Project](https://github.com/cesardataanalyst/Explorando-Factores-de-Comportamiento-en-NovaRetail)
+- [View Project][(https://github.com/cesardataanalyst/Explorando-Factores-de-Comportamiento-en-NovaRetail)]
 
 - ### 📡 Telecom Analysis
 - Proyecto de análisis de datos centrado en analizar información del ámbito empresarial de las telecomunicaciones e identificar patrones y conclusiones relevantes
