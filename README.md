@@ -5,7 +5,8 @@
 ## About Me
 - Data Analyst bilingüe inglés–español, con experiencia en el sector financiero y trayectoria en banca, análisis financiero y reporting corporativo.
 - Combino mi experiencia en Finanzas con formación especializada en Data Analytics para analizar y transformar información financiera y operativa en reportes, dashboards e insights útiles para el negocio.
-- Mi enfoque combina conocimiento financiero, análisis de datos y visión de negocio para identificar patrones, oportunidades de mejora y generar información que apoye la toma de decisiones. 
+- Mi enfoque combina conocimiento financiero, análisis de datos y visión de negocio para identificar patrones, oportunidades de mejora y generar información que apoye la toma de decisiones.
+  
 ...
 
 ## Career Objective
