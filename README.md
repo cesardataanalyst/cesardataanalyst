@@ -85,5 +85,6 @@ El proyecto integra datos de ventas, costos, marketing, comportamiento de usuari
 ## Connect with Me
 - 💼 LinkedIn: [Mi LinkedIn] (https://www.linkedin.com/in/cesar-palacio-data/) 
 - 💻 GitHub: [cesardataanalyst](https://github.com/cesardataanalyst)
-   
+
+  
 
