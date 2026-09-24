@@ -47,7 +47,7 @@
 
 ## 📊Featured Projects
 
-- Una Seleccion de projectos donde aplico el análisis de datos, SQL, Python, visualización y pensamiento orientado a los negocios hacia conjuntos de datos del mundo real y preguntas empresariales.
+Una Seleccion de projectos donde aplico el análisis de datos, SQL, Python, visualización y pensamiento orientado a los negocios hacia conjuntos de datos del mundo real y preguntas empresariales.
 
 ### 🚀 RappiPlus — Strategic Data Analysis
 - Proyecto de análisis de datos orientado a evaluar el desempeño de un negocio digital y transformar información de diferentes fuentes en insights para la toma de decisiones.
