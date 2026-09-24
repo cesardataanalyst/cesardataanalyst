@@ -70,7 +70,7 @@ El proyecto integra datos de ventas, costos, marketing, comportamiento de usuari
 - Proyecto de análisis de datos centrado en analizar información del ámbito empresarial de las telecomunicaciones e identificar patrones y conclusiones relevantes
 - **Enfoque:** Análisis de datos | Información empresarial | Análisis de clientes.
 - **Herramientas**: Python | Jupyter Notebook
-- [View Project](https://github.com/cesardataanalyst/sprint7-final-project_telecom-analysis)
+- [View Project][(https://github.com/cesardataanalyst/sprint7-final-project_telecom-analysis)]
   
 ...
 
