@@ -10,7 +10,7 @@
 ...
 
 ## Career Objective
-- Busco oportunidades como **Data Analyst, Financial Data Analyst, BI Analyst o Reporting Analyst**, donde pueda combinar mi experiencia en Finanzas y análisis de información con mis conocimientos en Data Analytics para transformar datos en insights útiles para el negocio.
+Busco oportunidades como **Data Analyst, Financial Data Analyst, BI Analyst o Reporting Analyst**, donde pueda combinar mi experiencia en Finanzas y análisis de información con mis conocimientos en Data Analytics para transformar datos en insights útiles para el negocio.
 
 ...
 
