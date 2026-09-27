@@ -78,7 +78,7 @@ El proyecto integra datos de ventas, costos, marketing, comportamiento de usuari
 
 **Profesional en finanzas y Negocios internacional**
 
-**TripleTen — Programa - Bootcamp : Data Analyst**
+**TripleTen — Data Analyst | Data Analytics & Business Intelligence — Bootcamp**
 
 ...
 
