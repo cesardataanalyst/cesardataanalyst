@@ -1,6 +1,6 @@
 ## CESAR PALACIO LEIVA
 
-### Data Analyst | Finance + Data Analytics
+### Data Analyst | Finance + Data Analytics | Business Intelligence
 
 ## About Me
 - Data Analyst bilingüe inglés–español, con experiencia en el sector financiero y trayectoria en banca, análisis financiero y reporting corporativo.
